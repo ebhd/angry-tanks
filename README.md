@@ -7,6 +7,7 @@
 **A technical Java project combining SVG-driven assets, JBox2D physics, JTS polygon processing, and passive-view MVP.**
 
 A local two-player artillery game inspired by *Worms* and *Scorched Earth*, with destructible terrain and offline SQLite persistence.
+
 Ebrahim Hdida | Fabio Di Nota
 
 <p>
